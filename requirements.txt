@@ -1,0 +1,5 @@
+aiogram~=2.12.1
+environs~=8.0.0
+django
+pillow
+psycopg2
